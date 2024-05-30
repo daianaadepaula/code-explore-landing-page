@@ -27,3 +27,11 @@ body {
 nav {
 	z-index: 10001;
 }
+
+.gradientBg {
+	background: linear-gradient(99deg, #a69efaa4 0%, #6156f9 100%);
+}
+
+.btn {
+	@apply py-3 px-8 bg-primary font-semibold text-white rounded hover:bg-pink transition-all duration-300;
+}
