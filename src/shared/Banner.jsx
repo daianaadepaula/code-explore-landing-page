@@ -7,7 +7,7 @@ const Banner = ({ banner, heading, subheading, btn1, btn2 }) => {
           <img src={banner} alt="" className="lg:h-[386px]" />
         </div>
 
-        <div className="text-center md:text-left md:w-3/5">
+        <div className="text-center md:text-left space-y-14 md:w-3/5">
           <h2 className="md:text-7xl text-4xl font-bold text-white mb-6 leading-relaxed">
             {heading}
           </h2>
