@@ -3,7 +3,7 @@ import homeImg from "./../assets/images/backgroundright.png";
 
 const Home = () => {
   return (
-    <section className="md:px-12 p-4 max-w-screen-2xl mx-auto mt-28">
+    <section className="md:px-12 p-4 max-w-screen-2xl mx-auto mt-28" id="home">
 
       <Banner 
 				banner={homeImg}

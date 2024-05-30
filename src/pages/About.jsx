@@ -2,10 +2,10 @@ import aboutImg from "./../assets/images/whoweare.png"
 
 const About = () => {
 	return (
-		<section className="md:px-14 p-4 max-w-s mx-auto mt-10">
-			<div className="flex flex-col md:flex-row justify-between items-center gap-10">
+		<section className="md:px-14 p-4 max-w-s mx-auto mt-10" id="about">
+			<div className="flex flex-col md:flex-row justify-between items-center gap-6">
 
-				<div className="w-3/5 p-1 md:w-2/5">
+				<div className="w-3/5 p-1 md:w-2/6">
 					<img src={aboutImg} alt="imagem de sobre" />
 				</div>
 

@@ -8,22 +8,22 @@ import serviceicons6 from "./../assets/images/serviceicons6.png"
 export const navItems = [
   { 
 		label: "Home", 
-		href: "#", 
+		href: "home", 
 		path: "/"
 	},
   { 
 		label: "Sobre", 
-		href: "#about", 
+		href: "about", 
 		path: "/sobre"
 	},
 	{ 
 		label: "Serviços", 
-		href: "#services", 
+		href: "services", 
 		path: "/servicos"
 	},
 	{ 
 		label: "Contato", 
-		href: "#contact", 
+		href: "contact", 
 		path: "/contato"
 	},
 ];

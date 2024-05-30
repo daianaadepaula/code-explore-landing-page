@@ -2,7 +2,7 @@ import { servItems } from "../constants"
 
 const Services = () => {
 	return (
-		<section id="#" className="px-4 mx-auto mt-15 gap-4 flex flex-col space-y-8 justify-between items-center my-10 md:px-14 p-4 max-w-s">
+		<section className="px-4 mx-auto mt-15 gap-4 flex flex-col space-y-8 justify-between items-center my-10 md:px-14 p-4 max-w-s" id="services">
 			<h2 className="md:text-5xl text-3xl font-bold text-primary mb-5 leading-normal">
 				Lorem ipsum dolor
 			</h2>
