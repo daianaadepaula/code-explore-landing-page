@@ -31,32 +31,32 @@ export const navItems = [
 export const servItems = [
 	{
 		icon: serviceicons1,
-		heading: "Esse ipsa aperiam",
+		heading: "Mídia e Performance",
 		text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eius non deserunt ipsa eligendi placeat enim pariatur est aut, excepturi distinctio beatae!",
 	},
 	{
 		icon: serviceicons2,
-		heading: "Esse ipsa aperiam",
+		heading: "Marketing",
 		text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eius non deserunt ipsa eligendi placeat enim pariatur est aut, excepturi distinctio beatae!",
 	},
 	{
 		icon: serviceicons3,
-		heading: "Esse ipsa aperiam",
+		heading: "SEO",
 		text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eius non deserunt ipsa eligendi placeat enim pariatur est aut, excepturi distinctio beatae!",
 	},
 	{
 		icon: serviceicons4,
-		heading: "Esse ipsa aperiam",
+		heading: "Criação de Sites",
 		text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eius non deserunt ipsa eligendi placeat enim pariatur est aut, excepturi distinctio beatae!",
 	},
 	{
 		icon: serviceicons5,
-		heading: "Esse ipsa aperiam",
+		heading: "Lojas Virtuais",
 		text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eius non deserunt ipsa eligendi placeat enim pariatur est aut, excepturi distinctio beatae!",
 	},
 	{
 		icon: serviceicons6,
-		heading: "Esse ipsa aperiam",
+		heading: "Publicidade",
 		text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eius non deserunt ipsa eligendi placeat enim pariatur est aut, excepturi distinctio beatae!",
 	},
 ];

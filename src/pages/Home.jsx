@@ -7,10 +7,10 @@ const Home = () => {
 
       <Banner 
 				banner={homeImg}
-				heading={"Lorem ipsum dolor sit amet"}
+				heading={"Agência de Marketing Digital e Publicidade"}
 				subheading={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident eveniet quia adipisci molestias. Recusandae voluptas in magni, quae temporibus autem nulla sunt labore"}
-				btn1={"Vamos conversar?"} 
-				btn2={"Vamos conversar?"} 
+				btn1={"Saiba como"} 
+				btn2={"Quero saber mais"} 
 			/>
 
     </section>

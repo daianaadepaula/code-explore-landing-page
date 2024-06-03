@@ -4,10 +4,6 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  font-family: "Poppins", sans-serif;
-}
-
 * {
   scroll-behavior: smooth;
 }
@@ -19,6 +15,7 @@ html {
 body {
   margin: 0;
   padding: 0;
+	font-family: "Poppins", sans-serif;
   box-sizing: border-box;
   min-height: 100vh;
   list-style: none;
